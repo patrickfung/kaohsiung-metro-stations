@@ -14,3 +14,8 @@ type:
 
 type: 
 - csv (kaohsiung_lightrail.csv)
+
+========================
+
+參考資料
+https://www.krtc.com.tw/KLRT/guide_map
