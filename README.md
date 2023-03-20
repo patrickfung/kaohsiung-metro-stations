@@ -17,5 +17,5 @@ type:
 
 ========================
 
-參考資料
-https://www.krtc.com.tw/KLRT/guide_map
+## 參考資料
+[高雄捷運營運系統圖](https://www.krtc.com.tw/Guide/guide_map)
