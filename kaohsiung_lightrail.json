@@ -1,227 +1,355 @@
-[
+{
+   "type": "FeatureCollection",
+   "features": [
   {
-    "id": "C1",
-    "name": "籬仔內",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市前鎮區瑞隆路與凱旋四路路口",
-    "lat": 22.352734,
-    "lon": 114.1277
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1277,22.352734 ]
+    },
+    "properties": {
+    "id":"C1",
+    "name":"籬仔內",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市前鎮區瑞隆路與凱旋四路路口"
+    }
   },
   {
-    "id": "C2",
-    "name": "凱旋瑞田",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市前鎮區凱旋四路與瑞田路口",
-    "lat": 22.5994952,
-    "lon": 120.3152603
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.3152603,22.5994952 ]
+    },
+    "properties": {
+    "id":"C2",
+    "name":"凱旋瑞田",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市前鎮區凱旋四路與瑞田路口"
+    }
   },
   {
-    "id": "C3",
-    "name": "前鎮之星",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市前鎮區中山三路與凱旋四路路口",
-    "lat": 22.5954827,
-    "lon": 120.3131446
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.3131446,22.5954827 ]
+    },
+    "properties": {
+    "id":"C3",
+    "name":"前鎮之星",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市前鎮區中山三路與凱旋四路路口"
+    }
   },
   {
-    "id": "C4",
-    "name": "凱旋中華",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市前鎮區中華五路與凱旋四路路口",
-    "lat": 22.5936149,
-    "lon": 120.3083193
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.3083193,22.5936149 ]
+    },
+    "properties": {
+    "id":"C4",
+    "name":"凱旋中華",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市前鎮區中華五路與凱旋四路路口"
+    }
   },
   {
-    "id": "C5",
-    "name": "夢時代",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市前鎮區成功二路與時代大道路口",
-    "lat": 22.5948714,
-    "lon": 120.3028434
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.3028434,22.5948714 ]
+    },
+    "properties": {
+    "id":"C5",
+    "name":"夢時代",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市前鎮區成功二路與時代大道路口"
+    }
   },
   {
-    "id": "C6",
-    "name": "經貿園區",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市前鎮區成功二路與正勤路路口南側",
-    "lat": 22.6009529,
-    "lon": 120.3004233
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.3004233,22.6009529 ]
+    },
+    "properties": {
+    "id":"C6",
+    "name":"經貿園區",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市前鎮區成功二路與正勤路路口南側"
+    }
   },
   {
-    "id": "C7",
-    "name": "軟體園區",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市前鎮區成功二路與復興三路路口北側",
-    "lat": 22.6025179,
-    "lon": 120.3001873
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.3001873,22.6025179 ]
+    },
+    "properties": {
+    "id":"C7",
+    "name":"軟體園區",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市前鎮區成功二路與復興三路路口北側"
+    }
   },
   {
-    "id": "C8",
-    "name": "高雄展覽館",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市苓雅區成功二路與新光路路口",
-    "lat": 22.6065986,
-    "lon": 120.2986531
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2986531,22.6065986 ]
+    },
+    "properties": {
+    "id":"C8",
+    "name":"高雄展覽館",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市苓雅區成功二路與新光路路口"
+    }
   },
   {
-    "id": "C9",
-    "name": "旅運中心",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市苓雅區海邊路與苓南前路路口",
-    "lat": 22.6077772,
-    "lon": 120.2972047
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2972047,22.6077772 ]
+    },
+    "properties": {
+    "id":"C9",
+    "name":"旅運中心",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市苓雅區海邊路與苓南前路路口"
+    }
   },
   {
-    "id": "C10",
-    "name": "光榮碼頭",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市苓雅區海邊路與青年二路路口",
-    "lat": 22.6135613,
-    "lon": 120.294855
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.294855,22.6135613 ]
+    },
+    "properties": {
+    "id":"C10",
+    "name":"光榮碼頭",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市苓雅區海邊路與青年二路路口"
+    }
   },
   {
-    "id": "C11",
-    "name": "真愛碼頭",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市鹽埕區公園二路與必忠街路口",
-    "lat": 22.6168197,
-    "lon": 120.2924303
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2924303,22.6168197 ]
+    },
+    "properties": {
+    "id":"C11",
+    "name":"真愛碼頭",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市鹽埕區公園二路與必忠街路口"
+    }
   },
   {
-    "id": "C12",
-    "name": "駁二大義",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市鹽埕區駁二特區大義街路口",
-    "lat": 22.616889,
-    "lon": 120.2826027
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2826027,22.616889 ]
+    },
+    "properties": {
+    "id":"C12",
+    "name":"駁二大義",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市鹽埕區駁二特區大義街路口"
+    }
   },
   {
-    "id": "C13",
-    "name": "駁二蓬萊",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市鹽埕區駁二特區七賢三路路口",
-    "lat": 22.6173644,
-    "lon": 120.2813474
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2813474,22.6173644 ]
+    },
+    "properties": {
+    "id":"C13",
+    "name":"駁二蓬萊",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市鹽埕區駁二特區七賢三路路口"
+    }
   },
   {
-    "id": "C14",
-    "name": "哈瑪星",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市鼓山區鼓山一路與臨海新路路口",
-    "lat": 22.6180081,
-    "lon": 120.2769701
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2769701,22.6180081 ]
+    },
+    "properties": {
+    "id":"C14",
+    "name":"哈瑪星",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市鼓山區鼓山一路與臨海新路路口"
+    }
   },
   {
-    "id": "C15",
-    "name": "壽山公園",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市鼓山區五福四路與新樂街段",
-    "lat": 22.623528,
-    "lon": 120.27804
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.27804,22.623528 ]
+    },
+    "properties": {
+    "id":"C15",
+    "name":"壽山公園",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市鼓山區五福四路與新樂街段"
+    }
   },
   {
-    "id": "C16",
-    "name": "文武聖殿",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市鼓山區大公路與鼓山一路口",
-    "lat": 22.6258354,
-    "lon": 120.2773963
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2773963,22.6258354 ]
+    },
+    "properties": {
+    "id":"C16",
+    "name":"文武聖殿",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市鼓山區大公路與鼓山一路口"
+    }
   },
   {
-    "id": "C17",
-    "name": "鼓山區公所",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市鼓山區興隆路與河川街103巷",
-    "lat": 22.632708,
-    "lon": 120.2790378
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2790378,22.632708 ]
+    },
+    "properties": {
+    "id":"C17",
+    "name":"鼓山區公所",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市鼓山區興隆路與河川街103巷"
+    }
   },
   {
-    "id": "C18",
-    "name": "鼓山",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市鼓山區鐵路街及鐵路街18巷",
-    "lat": 22.643415,
-    "lon": 120.2801087
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2801087,22.643415 ]
+    },
+    "properties": {
+    "id":"C18",
+    "name":"鼓山",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市鼓山區鐵路街及鐵路街18巷"
+    }
   },
   {
-    "id": "C19",
-    "name": "馬卡道",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市鼓山區馬卡道路與華安街口",
-    "lat": 22.643415,
-    "lon": 120.2801087
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2801087,22.643415 ]
+    },
+    "properties": {
+    "id":"C19",
+    "name":"馬卡道",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市鼓山區馬卡道路與華安街口"
+    }
   },
   {
-    "id": "C20",
-    "name": "臺鐵美術館",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "高雄市鼓山區馬卡道路與青海路口",
-    "lat": 22.6513783,
-    "lon": 120.2821365
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2821365,22.6513783 ]
+    },
+    "properties": {
+    "id":"C20",
+    "name":"臺鐵美術館",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"高雄市鼓山區馬卡道路與青海路口"
+    }
   },
   {
-    "id": "C21A",
-    "name": "內惟藝術中心",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "馬卡道路與美術館路口",
-    "lat": 22.6533585,
-    "lon": 120.2826729
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2826729,22.6533585 ]
+    },
+    "properties": {
+    "id":"C21A",
+    "name":"內惟藝術中心",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"馬卡道路與美術館路口"
+    }
   },
   {
-    "id": "C21",
-    "name": "美術館",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "美術館路與美術東二路口",
-    "lat": 22.6533585,
-    "lon": 120.2826729
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2826729,22.6533585 ]
+    },
+    "properties": {
+    "id":"C21",
+    "name":"美術館",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"美術館路與美術東二路口"
+    }
   },
   {
-    "id": "C22",
-    "name": "聯合醫院",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "美術館路與中華一路",
-    "lat": 22.6534031,
-    "lon": 120.2884987
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2884987,22.6534031 ]
+    },
+    "properties": {
+    "id":"C22",
+    "name":"聯合醫院",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"美術館路與中華一路"
+    }
   },
   {
-    "id": "C23",
-    "name": "龍華國小",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "大順一路與龍勝路口",
-    "lat": 22.653814,
-    "lon": 120.2919534
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2919534,22.653814 ]
+    },
+    "properties": {
+    "id":"C23",
+    "name":"龍華國小",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"大順一路與龍勝路口"
+    }
   },
   {
-    "id": "C24",
-    "name": "愛河之心",
-    "line": "綠線",
-    "zipcode": 82060,
-    "address": "大順一路與博愛一路口",
-    "lat": 22.6552893,
-    "lon": 120.3020278
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.3020278,22.6552893 ]
+    },
+    "properties": {
+    "id":"C24",
+    "name":"愛河之心",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"大順一路與博愛一路口"
+    }
   }
 ]
+}
