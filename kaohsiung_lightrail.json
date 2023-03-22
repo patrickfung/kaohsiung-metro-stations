@@ -19,7 +19,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 120.315629, 22.595505 ]
+       "coordinates":  [ 120.319620, 22.599427 ]
     },
     "properties": {
     "id":"C2",
@@ -33,7 +33,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 120.3131446,22.5954827 ]
+       "coordinates":  [ 120.315601, 22.595480 ]
     },
     "properties": {
     "id":"C3",
