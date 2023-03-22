@@ -47,7 +47,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 120.3083193,22.5936149 ]
+       "coordinates":  [ 120.310729, 22.593979 ]
     },
     "properties": {
     "id":"C4",
