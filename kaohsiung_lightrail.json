@@ -5,20 +5,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 114.1277,22.352734 ]
-    },
-    "properties": {
-    "id":"C1",
-    "name":"籬仔內",
-    "line":"綠線",
-    "zipcode":82060,
-    "address":"高雄市前鎮區瑞隆路與凱旋四路路口"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 120.3152603,22.5994952 ]
     },
     "properties": {
