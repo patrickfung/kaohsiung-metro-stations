@@ -61,7 +61,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 120.304955, 22.594850 ]
+       "coordinates":  [ 120.304955,22.594850 ]
     },
     "properties": {
     "id":"C5",
@@ -75,7 +75,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [  120.304980,22.594860 ]
+       "coordinates":  [ 120.302568,22.600976 ]
     },
     "properties": {
     "id":"C6",
