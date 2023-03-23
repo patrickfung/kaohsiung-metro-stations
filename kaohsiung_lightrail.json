@@ -285,7 +285,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 120.2826729,22.6533585 ]
+       "coordinates":  [ 120.282878453961,22.655012079442752 ]
     },
     "properties": {
     "id":"C21A",
@@ -299,7 +299,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 120.2826729,22.6533585 ]
+       "coordinates":  [ 120.28733866843837,22.655017294678753 ]
     },
     "properties": {
     "id":"C21",
@@ -313,7 +313,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 120.2884987,22.6534031 ]
+       "coordinates":  [ 120.29089552864787,22.654813314352758 ]
     },
     "properties": {
     "id":"C22",
@@ -327,7 +327,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 120.2919534,22.653814 ]
+       "coordinates":  [ 120.29510196156342,22.6544469815766 ]
     },
     "properties": {
     "id":"C23",
@@ -341,7 +341,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 120.3020278,22.6552893 ]
+       "coordinates":  [ 120.30282466187641,22.656039960036566 ]
     },
     "properties": {
     "id":"C24",
