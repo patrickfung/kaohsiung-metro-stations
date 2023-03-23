@@ -257,7 +257,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 120.2801087,22.643415 ]
+       "coordinates":  [ 120.28137493168877,22.64705084349489 ]
     },
     "properties": {
     "id":"C19",
@@ -271,7 +271,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 120.2821365,22.6513783 ]
+       "coordinates":  [ 22.65215826711059, 120.28168127434581 ]
     },
     "properties": {
     "id":"C20",
