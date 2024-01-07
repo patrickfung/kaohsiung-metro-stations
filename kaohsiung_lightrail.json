@@ -350,6 +350,20 @@
     "zipcode":82060,
     "address":"大順一路與博愛一路口"
     }
+  },
+    {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.30699,22.65655 ]
+    },
+    "properties": {
+    "id":"C25",
+    "name":"新上國小",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"大順一路與自由一路口"
+    }
   }
 ]
 }
