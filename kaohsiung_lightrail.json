@@ -372,11 +372,25 @@
        "coordinates":  [ 120.3153788,22.6550868 ]
     },
     "properties": {
-    "id":"C25",
+    "id":"C26",
     "name":"灣仔內",
     "line":"綠線",
     "zipcode":82060,
     "address":"大順一路與民族一路口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.318505,22.653447 ]
+    },
+    "properties": {
+    "id":"C27",
+    "name":"鼎山街",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"大順二路與鼎山街口"
     }
   }
 ]
