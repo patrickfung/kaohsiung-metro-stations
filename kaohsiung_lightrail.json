@@ -476,6 +476,62 @@
     "zipcode":82060,
     "address":"凱旋二路與凱旋二路81巷"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.325194,22.621194 ]
+    },
+    "properties": {
+    "id":"C34",
+    "name":"五權國小",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"凱旋二路與三多二路口"
+    }
+  },
+    {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.326861,22.616917 ]
+    },
+    "properties": {
+    "id":"C35",
+    "name":"凱旋武昌",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"凱旋三路與武昌路口"
+    }
+  },
+   {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.327167,22.612528 ]
+    },
+    "properties": {
+    "id":"C36",
+    "name":"凱旋二聖",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"凱旋三路與二聖路口"
+    }
+  },
+   {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.326056,22.6085 ]
+    },
+    "properties": {
+    "id":"C37",
+    "name":"輕軌機廠",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"瑞西街與瑞北路口"
+    }
   }
 ]
 }
