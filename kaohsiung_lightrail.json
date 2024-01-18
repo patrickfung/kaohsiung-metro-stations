@@ -406,6 +406,34 @@
     "zipcode":82060,
     "address":"大順二路與建工路口"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.326007,22.643243 ]
+    },
+    "properties": {
+    "id":"C29",
+    "name":"樹德家商",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"大順二路與建興路口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.32707,22.637274 ]
+    },
+    "properties": {
+    "id":"C30",
+    "name":"科工館",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"大順三路與鐵道園區"
+    }
   }
 ]
 }
