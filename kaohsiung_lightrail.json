@@ -392,6 +392,20 @@
     "zipcode":82060,
     "address":"大順二路與鼎山街口"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.323954,22.649623 ]
+    },
+    "properties": {
+    "id":"C28",
+    "name":"高雄高工",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"大順二路與建工路口"
+    }
   }
 ]
 }
