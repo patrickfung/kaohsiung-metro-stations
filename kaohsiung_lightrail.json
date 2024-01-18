@@ -453,7 +453,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 120.325632,22.633165 ]
+       "coordinates":  [ 120.322833,22.6295 ]
     },
     "properties": {
     "id":"C32",
@@ -461,6 +461,20 @@
     "line":"綠線",
     "zipcode":82060,
     "address":"中正一路與河南路口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.323667,22.625222 ]
+    },
+    "properties": {
+    "id":"C33",
+    "name":"衛生局",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"凱旋二路與凱旋二路81巷"
     }
   }
 ]
