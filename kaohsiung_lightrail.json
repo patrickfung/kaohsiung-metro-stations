@@ -448,6 +448,20 @@
     "zipcode":82060,
     "address":"大順三路與建國一路口"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.325632,22.633165 ]
+    },
+    "properties": {
+    "id":"C32",
+    "name":"凱旋公園",
+    "line":"綠線",
+    "zipcode":82060,
+    "address":"中正一路與河南路口"
+    }
   }
 ]
 }
