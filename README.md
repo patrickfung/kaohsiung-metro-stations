@@ -14,7 +14,7 @@ type:
 
 type: 
 - csv (kaohsiung_lightrail.csv)
-- GeoJSON (kaohsiung_lightrail.csv.json)
+- GeoJSON (kaohsiung_lightrail.csv.geojson)
 
 ========================
 
